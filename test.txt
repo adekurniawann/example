@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 coba 2
+=======
+ade kurniawan
+>>>>>>> branch2
 asdasd
 
 kjhljl
